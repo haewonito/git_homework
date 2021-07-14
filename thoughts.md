@@ -7,3 +7,7 @@ I am going to work on what my typical days and weeks should look like once Mod1 
 I need to speak up more, so that I can learn to verbally communicate better with other programmers.
 
 Hi Sean!
+
+
+
+adding stuff to practice git for mod 0 section 3
